@@ -4,7 +4,7 @@
 
 ---
 
-## Resumen del Dia 1 (Miercoles 9 de julio)
+## Resumen del Dia 1 (Jueves 9 de julio)
 
 ### Lo que logramos hoy:
 

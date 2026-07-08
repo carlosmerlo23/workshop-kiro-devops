@@ -1,6 +1,6 @@
 # Lab 2: Generacion de Pipelines con Prompts para CI
 
-## Duracion: 60 minutos (9:45 - 10:45)
+## Duracion: 60 minutos (9:30 - 10:30)
 
 ---
 

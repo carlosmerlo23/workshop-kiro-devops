@@ -1,6 +1,6 @@
 # Lab 1: Setup de Kiro para Proyectos DevOps
 
-## Duracion: 45 minutos (9:00 - 9:45)
+## Duracion: 45 minutos (8:45 - 9:30)
 
 ---
 

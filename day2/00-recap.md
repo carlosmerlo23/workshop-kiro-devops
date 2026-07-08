@@ -1,7 +1,7 @@
 # Recap Dia 1
 
 ## Duracion: 15 minutos (8:00 - 8:15)
-## Fecha: Jueves 10 de julio de 2025
+## Fecha: Viernes 10 de julio de 2026
 
 ---
 
@@ -29,7 +29,7 @@ Dia 1 - Resumen express:
 ## Lo que haremos hoy
 
 ```
-Dia 2 - Agenda (Jueves 10 de julio):
+Dia 2 - Agenda (Viernes 10 de julio):
 
 8:15 - 9:15   Lab 3: Plantillas IaC (Terraform/CloudFormation)
 9:15 - 9:30   Break

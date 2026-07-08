@@ -1,7 +1,7 @@
 # Bienvenida y Objetivos del Workshop
 
 ## Duracion: 15 minutos (8:00 - 8:15)
-## Fecha: Miercoles 9 de julio de 2025
+## Fecha: Jueves 9 de julio de 2026
 
 ---
 

@@ -118,20 +118,20 @@ workshop-solution/
 
 ## Timing detallado por sesion
 
-### Day 1 (Miercoles 9 de julio, 8:00 - 12:00)
+### Day 1 (Jueves 9 de julio, 8:00 - 12:00)
 
 | Hora | Sesion | Notas del facilitador |
 |------|--------|----------------------|
 | 8:00-8:15 | Bienvenida | Romper el hielo rapido. Verificar prerequisites. |
 | 8:15-8:45 | Teoria DevOps+Kiro | No abusar de slides. Demo corta de 2 min mostrando Kiro en accion. |
-| 8:45-9:00 | Break | Aprovechar para ayudar a rezagados con setup. |
-| 9:00-9:45 | Lab 1 | Este es el lab mas critico. Si alguien no completa setup, queda atrasado todo el dia. |
-| 9:45-10:45 | Lab 2 | El lab mas largo. Ajustar si van rapido: saltar Parte 4 (Release). |
+| 8:45-9:30 | Lab 1 | Este es el lab mas critico. Si alguien no completa setup, queda atrasado todo el dia. |
+| 9:30-10:30 | Lab 2 | El lab mas largo. Ajustar si van rapido: saltar Parte 4 (Release). |
+| 10:30-10:45 | Break | Aprovechar para ayudar a rezagados. Descanso mental antes del taller. |
 | 10:45-11:15 | Taller practico | Si van cortos de tiempo, enfocar solo en tests (skip docs). |
 | 11:15-11:45 | Revision | No forzar presentaciones si el grupo es timido. Hacer tu la revision mostrando ejemplos. |
 | 11:45-12:00 | Cierre | Motivar para el Dia 2. Dejar tarea: "prueben Kiro en algo de su proyecto real". |
 
-### Day 2 (Jueves 10 de julio, 8:00 - 12:00)
+### Day 2 (Viernes 10 de julio, 8:00 - 12:00)
 
 | Hora | Sesion | Notas del facilitador |
 |------|--------|----------------------|

@@ -7,7 +7,7 @@
 | Campo | Detalle |
 |-------|---------|
 | Cliente | Carvajal |
-| Fechas | 9 y 10 de julio de 2025 |
+| Fechas | 9 y 10 de julio de 2026 |
 | Horario | 8:00 AM - 12:00 PM (4 horas por dia) |
 | Duracion total | 8 horas (2 dias x 4 horas) |
 | Nivel | Intermedio |
@@ -53,20 +53,20 @@ Al finalizar este workshop, los participantes podran:
 
 ## Agenda
 
-### Day 1 - Miercoles 9 de julio (8:00 - 12:00)
+### Day 1 - Jueves 9 de julio (8:00 - 12:00)
 
 | Hora | Sesion | Tipo | Duracion |
 |------|--------|------|----------|
 | 8:00 - 8:15 | Bienvenida y objetivos | Presentacion | 15 min |
 | 8:15 - 8:45 | Que es DevOps y su valor en desarrollo con Kiro | Teoria | 30 min |
-| 8:45 - 9:00 | Break | - | 15 min |
-| 9:00 - 9:45 | Lab 1: Setup de Kiro para proyectos DevOps | Hands-on | 45 min |
-| 9:45 - 10:45 | Lab 2: Generacion de pipelines con prompts para CI | Hands-on | 60 min |
+| 8:45 - 9:30 | Lab 1: Setup de Kiro para proyectos DevOps | Hands-on | 45 min |
+| 9:30 - 10:30 | Lab 2: Generacion de pipelines con prompts para CI | Hands-on | 60 min |
+| 10:30 - 10:45 | Break | - | 15 min |
 | 10:45 - 11:15 | Taller practico: Prompts para pruebas y documentacion | Hands-on | 30 min |
 | 11:15 - 11:45 | Revision de resultados y buenas practicas | Discusion | 30 min |
 | 11:45 - 12:00 | Cierre y proximos pasos | Presentacion | 15 min |
 
-### Day 2 - Jueves 10 de julio: DevOps ligero con Kiro (8:00 - 12:00)
+### Day 2 - Viernes 10 de julio: DevOps ligero con Kiro (8:00 - 12:00)
 
 | Hora | Sesion | Tipo | Duracion |
 |------|--------|------|----------|
