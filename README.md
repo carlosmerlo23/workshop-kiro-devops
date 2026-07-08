@@ -107,9 +107,7 @@ workshop-kiro-devops/
 │   │   └── ejercicios/
 │   └── code-challenge/          # Code Challenge final
 │       └── README.md
-├── assets/                      # Imagenes y recursos
-└── guia-facilitador/            # Guia para el instructor
-    └── README.md
+└── assets/                      # Imagenes y recursos
 ```
 
 ---
