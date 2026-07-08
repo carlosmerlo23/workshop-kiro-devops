@@ -1,0 +1,18 @@
+{
+  "name": "kiro-devops-workshop",
+  "version": "1.0.0",
+  "description": "Workshop DevOps con Kiro - Carvajal",
+  "main": "src/utils.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "lint": "eslint src/",
+    "build": "echo 'Build exitoso'"
+  },
+  "keywords": ["devops", "kiro", "workshop"],
+  "author": "Equipo Carvajal",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
