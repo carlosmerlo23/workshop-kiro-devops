@@ -46,3 +46,8 @@ Thumbs.db
 *.tar.gz
 tmp/
 .cache/
+day1/00-bienvenida.md
+day1/01-devops-con-kiro.md
+day1/02-revision-resultados.md
+day1/03-cierre.md
+guia-facilitador/
