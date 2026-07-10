@@ -339,6 +339,8 @@ git commit -m "ci: agregar pipelines de CI, PR validation y release"
 git push origin main
 ```
 
+> **Nota**: Los comandos de `git` funcionan igual en macOS, Linux y Windows (PowerShell, CMD o Git Bash). Si usas CMD en Windows y `git add .github/` no funciona, usa `git add .github\` con backslash.
+
 ### Verificar en GitHub
 
 1. Ve a tu repositorio en GitHub

@@ -32,9 +32,24 @@ Usar Kiro para generar plantillas de Infrastructure as Code sin necesidad de con
 
 ### 1.1 Preparar estructura
 
+**macOS / Linux / Git Bash:**
 ```bash
 mkdir -p infra/terraform/{modules/webapp,environments/{dev,prod}}
 ```
+
+**Windows (PowerShell):**
+```powershell
+mkdir infra\terraform\modules\webapp, infra\terraform\environments\dev, infra\terraform\environments\prod
+```
+
+**Windows (CMD):**
+```cmd
+mkdir infra\terraform\modules\webapp
+mkdir infra\terraform\environments\dev
+mkdir infra\terraform\environments\prod
+```
+
+> **Tip**: La sintaxis `{a,b}` es expansion de Bash y no funciona en PowerShell/CMD. En Windows, crea cada ruta por separado o usa Git Bash.
 
 ### 1.2 Generar modulo Terraform para aplicacion web
 
@@ -404,6 +419,8 @@ git add infra/ scripts/ docs/INFRASTRUCTURE.md .kiro/steering/iac-standards.md
 git commit -m "feat: agregar plantillas IaC (Terraform + CloudFormation)"
 git push origin main
 ```
+
+> **Nota Windows**: Si las rutas con `/` fallan en CMD, usa `git add -A` como alternativa o usa Git Bash.
 
 ---
 

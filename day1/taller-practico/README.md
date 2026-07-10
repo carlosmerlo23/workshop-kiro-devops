@@ -208,6 +208,8 @@ npm test
 npx jest --coverage
 ```
 
+> **Nota**: Estos comandos (`npm`, `npx`) funcionan igual en macOS, Linux y Windows. Si ves un error de "execution policy" en PowerShell, ejecuta: `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`
+
 ### 2.4 Iterar si hay fallos
 
 Si algun test falla, usa Kiro:
@@ -354,6 +356,8 @@ git add src/ tests/ docs/ jest.config.js .kiro/
 git commit -m "feat: agregar tests, documentacion de pipeline y hook de docs"
 git push origin main
 ```
+
+> **Nota Windows**: Si usas CMD y falla con las rutas, usa `git add -A` como alternativa para agregar todos los archivos modificados.
 
 ---
 

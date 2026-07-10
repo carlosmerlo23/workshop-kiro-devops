@@ -491,6 +491,8 @@ git commit -m "feat: agregar monitoreo, alarmas, SOP y playbook de incidentes"
 git push origin main
 ```
 
+> **Nota Windows**: Si las rutas con `/` fallan en CMD, usa `git add -A` como alternativa o usa Git Bash. Los comandos `curl` y `aws` que aparecen en los documentos generados (SOP, Runbook) son ejemplos para entornos de produccion, no necesitas ejecutarlos durante el lab.
+
 ---
 
 ## Siguiente: [Code Challenge →](../code-challenge/README.md)

@@ -167,6 +167,8 @@ git commit -m "challenge: entrega equipo N - servicio de notificaciones"
 git push origin challenge/equipo-N
 ```
 
+> **Nota**: Todos estos comandos de git funcionan igual en macOS, Linux y Windows (PowerShell, CMD o Git Bash). No se requieren comandos especificos por plataforma para el challenge.
+
 ---
 
 ## Evaluacion y premiacion (10 min)

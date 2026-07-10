@@ -52,10 +52,28 @@ En la terminal de Kiro:
 ```bash
 # Inicializar proyecto Node.js
 npm init -y
+```
 
-# Crear estructura basica
+Crear estructura basica de carpetas:
+
+**macOS / Linux / Git Bash:**
+```bash
 mkdir -p src tests .github/workflows
 ```
+
+**Windows (PowerShell):**
+```powershell
+mkdir src, tests, .github\workflows
+```
+
+**Windows (CMD):**
+```cmd
+mkdir src
+mkdir tests
+mkdir .github\workflows
+```
+
+> **Tip Windows**: Si usas Git Bash como terminal en Kiro, los comandos de macOS/Linux funcionan directamente. Para cambiar: click en el dropdown de la terminal → seleccionar "Git Bash".
 
 ---
 
@@ -65,8 +83,19 @@ Los steering files son instrucciones persistentes que Kiro sigue en todas las in
 
 ### 2.1 Crear la carpeta de steering
 
+**macOS / Linux / Git Bash:**
 ```bash
 mkdir -p .kiro/steering
+```
+
+**Windows (PowerShell):**
+```powershell
+mkdir .kiro\steering
+```
+
+**Windows (CMD):**
+```cmd
+mkdir .kiro\steering
 ```
 
 ### 2.2 Crear steering de estandares DevOps
@@ -239,6 +268,9 @@ git push origin main
 | Git push falla | Verificar credenciales de GitHub |
 | Hook no se dispara | Verificar que el matcher regex es correcto |
 | Steering no se aplica | Verificar que el archivo esta en .kiro/steering/ |
+| `mkdir -p` no funciona | Estas en Windows. Usar Git Bash o los comandos PowerShell/CMD |
+| `npm` no reconocido | Node.js no instalado o no en PATH. Reinstalar y reabrir terminal |
+| `fatal: not a git repository` | No estas dentro del directorio del repo. Abrir la carpeta correcta en Kiro (File → Open Folder) |
 
 ---
 
